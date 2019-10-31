@@ -10,7 +10,7 @@ package com.rehearsal.resposebody.easy;
 public class Clinet {
 
     public static void main(String[] args) {
-        System.out.println(ResposeBody.ok().put("123", 123).put("456", 456).toString());
+        System.out.println(ResponseBody.ok().put("123", 123).put("456", 456).toString());
 
     }
 }
