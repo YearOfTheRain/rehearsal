@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="algorithm" />
+        <module name="callback" />
+        <module name="demo" />
+        <module name="designpatterns" />
+        <module name="fileupload" />
+        <module name="game" />
+        <module name="refactoring" />
+        <module name="rehearsal" />
+        <module name="resposebody" />
+        <module name="stackoverflow" />
+        <module name="thread" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm" target="1.8" />
+      <module name="callback" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="designpatterns" target="1.8" />
+      <module name="fileupload" target="1.8" />
+      <module name="game" target="1.8" />
+      <module name="interfacedemo" target="1.8" />
+      <module name="refactoring" target="1.8" />
+      <module name="rehearsal" target="1.8" />
+      <module name="resposebody" target="1.8" />
+      <module name="stackoverflow" target="1.8" />
+      <module name="thread" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="algorithm" options="-parameters" />
+      <module name="callback" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="designpatterns" options="-parameters" />
+      <module name="fileupload" options="-parameters" />
+      <module name="game" options="-parameters" />
+      <module name="interfacedemo" options="-parameters" />
+      <module name="refactoring" options="-parameters" />
+      <module name="rehearsal" options="-parameters" />
+      <module name="resposebody" options="-parameters" />
+      <module name="stackoverflow" options="-parameters" />
+      <module name="thread" options="-parameters" />
+    </option>
+  </component>
+</project>

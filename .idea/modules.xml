@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatterns/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns/designpatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring/refactoring.iml" filepath="$PROJECT_DIR$/refactoring/refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rehearsal.iml" filepath="$PROJECT_DIR$/rehearsal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resposebody/resposebody.iml" filepath="$PROJECT_DIR$/resposebody/resposebody.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackoverflow/stackoverflow.iml" filepath="$PROJECT_DIR$/stackoverflow/stackoverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
