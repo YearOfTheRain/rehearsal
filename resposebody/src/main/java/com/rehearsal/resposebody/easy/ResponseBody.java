@@ -13,7 +13,7 @@ public class ResponseBody extends HashMap<String, Object> {
 
     private static final long serialVersionUID = -2956025407796580417L;
 
-    public ResponseBody() {
+    private ResponseBody() {
         put("code", 0);
         put("msg", "success");
     }
