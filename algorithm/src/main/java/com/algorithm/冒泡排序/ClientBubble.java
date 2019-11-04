@@ -32,6 +32,7 @@ public class ClientBubble extends AbstractTestMethod {
         int temp;
         for (int i = 0; i < length - 1; i++) {
             for (int j = maxIndex; j > i; j--) {
+                //冒泡 核心交换方法，将大的数向后排
                 if (integers[i] > integers[j]) {
                     temp = integers[i];
                     integers[i] = integers[j];

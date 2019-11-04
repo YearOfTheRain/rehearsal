@@ -39,7 +39,7 @@ public class ClientMerge extends AbstractTestMethod {
      * @date 2019/10/25
      */
     private static void mergeSort(Integer[] integers, int startIndex, int length) {
-        //拒绝入参为0，1 等类似参数 因为这样的数据无效
+        //拒绝入参为 (0，1) 等类似参数 因为这样的数据无效
         if (startIndex < length - 1) {
             int middle = ((startIndex + length) / 2);
             //递归调用获得最小单元 如 0,2
