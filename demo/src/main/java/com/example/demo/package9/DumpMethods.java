@@ -78,7 +78,6 @@ public class DumpMethods {
     public static void main(String[] args) {
         int i = 7;
         i++;
-        System.out.println(i++);
-
+        // \u000d System.out.println(i++);
     }
 }

@@ -29,4 +29,9 @@ public class Client {
         List<? super Father> fathers2 = objectList;
         //List<? super Father> fathers3 = sonList;
     }*/
+
+    public static void main(String[] args) {
+        System.out.println(6>>1);
+    }
+
 }
